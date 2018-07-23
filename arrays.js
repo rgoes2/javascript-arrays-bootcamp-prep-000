@@ -22,4 +22,4 @@ function removeElementFromBeginningOfArray (array) {
   array.slice(0)
   return array 
 }
-console.log(chocolateBars.slice(0))
+console.log(chocolateBars.slice(-4))
